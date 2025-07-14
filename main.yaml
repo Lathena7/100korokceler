@@ -1,0 +1,154 @@
+- Celer 100 koroks (WR route). Here is .link([Reference video] https://www.bilibili.com/video/BV1i3JJzLEWJ/?spm_id_from=888.80997.embed_other.whitelist&t=167.393029&bvid=BV1i3JJzLEWJ).
+
+- Plateau:
+    - .!!(SoR):
+        icon: location
+    - _Equipment::Weapon<Torch>:
+        coord: [-953.25,1956.75]
+    - _Equipment::Weapon<Boko Speer>
+    - _Equipment::Shield<Pot Lid>
+    - _Material<6 Peppers>:
+        comment: 
+        notes: Use 4 for food, keep 2 for IST
+    - _Material<2 Shrooms>:
+        comment:
+    - _Equipment::Bow<Bow>:
+        coord: [-830,1963.125]
+    - _Material<5 arrows>:
+       comment: 
+    - _Shrine::JaBaij
+    - _Shrine::OmanAu
+    - _Material<2 Apples>:
+        coord: [-846.5,2294.5]
+        comment: 
+    - _Material<2 Wood>:
+        comment: 
+    - _Shrine::OwaDaim
+    - _Shrine::KehNamut
+    - _Npc<Paraglider>:
+        icon: king
+        coord: [-809.33, 263.58, 1964.35]
+
+- IST:
+    - _Material<1 Fairy>:
+        coord: [940,497.5]
+        comment:
+        notes: Blss from ToT to the guardian.
+    - _Npc<Terry>:
+        coord: [886,169]
+        notes: Windbomb to stable, .link([IST instructions] https://docs.google.com/document/u/1/d/e/2PACX-1vRLjRjh8UUMClq6xkuUtEEFNaGhi_2IRXYatM41vxEbEc4Nd6e41IsgUqH7NQ_Q8VABGFVz4-4iR7YP/pub)
+    
+
+- Koroks:
+
+    - _Korok::Z37
+    - _Korok::C46
+    - _Korok::C34
+    - _Korok::C23
+    - _Korok::C19
+    - _Korok::C12
+    - _Korok::C11
+    - _Korok::C09
+    - _Korok::C06
+    - _Korok::C05
+    - _Korok::C04
+    - _Korok::C17
+    - _Korok::C29
+    - _Korok::C28
+    - _Korok::C32
+    - _Korok::C35
+    - _Korok::C43
+    - _Korok::C42
+    - _Korok::C40
+    - _Korok::C41
+    - _Korok::C31
+    - _Korok::C30
+    - _Korok::C25
+    - _Korok::C26
+    - _Korok::C20
+    - _Korok::C15
+    - _Korok::C03
+    - _Korok::C01
+    - _Korok::C07
+    - _Korok::R16
+    - _Korok::C14
+    - _Korok::C24
+    - _Korok::R26
+    - _Korok::R27
+    - _Korok::R44
+    - _Korok::R43
+    - _Korok::R42
+    - _Korok::R49
+    - _Korok::R48
+    - _Korok::C36
+    - _Korok::R58
+    - _Korok::C52
+    - _Korok::C57
+    - _Korok::C58
+    - _Korok::C59
+    - _Korok::R74
+    - _Korok::C66
+    - _Korok::C60
+    - _Korok::C67
+    - _Korok::C68
+    - _Korok::C81
+    - _Korok::P06
+    - _Korok::P05
+    - _Korok::P02
+    - _Korok::P01
+    - _Korok::C82
+    - _Korok::C76
+    - _Korok::C75
+    - _Korok::C64
+    - _Korok::C71
+    - _Korok::C65
+    - _Korok::D14
+    - _Korok::D13
+    - _Korok::D15
+    - _Korok::D16
+    - _Korok::D29
+    - _Korok::D28
+    - _Korok::D46
+    - _Korok::L01
+    - _Korok::L02
+    - _Korok::L04
+    - _Korok::D45
+    - _Korok::D32
+    - _Korok::D33
+    - _Korok::D34
+    - _Korok::D27
+    - _Korok::D26
+    - _Korok::D31
+    - _Korok::D44
+    - _Korok::D54
+    - _Korok::L09
+    - _Korok::L27
+    - _Korok::L26
+    - _Korok::L15
+    - _Korok::L14
+    - _Korok::L30
+    - _Korok::L31
+    - _Korok::L39
+    - _Korok::L40
+    - _Korok::L44
+    - _Korok::L52
+    - _Korok::L53
+    - _Korok::L45
+    - _Korok::L35
+    - _Korok::L29
+    - _Korok::L19
+    - _Korok::L13
+    - _Korok::L18
+    - _Korok::L17
+    - _Korok::L12:
+        notes: Last korok, GG !
+
+
+
+
+
+
+    
+    
+
+
